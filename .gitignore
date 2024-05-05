@@ -1,0 +1,12 @@
+Library/
+UserSettings/
+Logs/
+
+.gradle/
+
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+
